@@ -1,0 +1,20 @@
+{
+  "name": "Mental Wellness Companion",
+  "short_name": "WellnessAI",
+  "description": "AI-powered mental wellness platform for emotional tracking and support",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#667eea",
+  "theme_color": "#667eea",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ],
+  "categories": ["health", "wellness", "lifestyle"],
+  "lang": "en",
+  "dir": "ltr"
+}
